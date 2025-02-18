@@ -95,11 +95,15 @@ Após a execução do script, você obterá os seguintes resultados:
 3. **Gráficos**:
    - **Gráfico de Barras**: Compara as métricas (Sensibilidade, Especificidade, Precisão e F-score) para cada classe.
    - **Gráfico de Pizza**: Mostra a proporção da acurácia global em relação ao erro global.
+ 
+  
 
 Exemplo de Visualização:
 
 - Gráfico de Barras
+     - ![Gráfico de Barras](gráfico_de_barras.png)
 - Gráfico de Pizza
+    - ![Gráfico de Pizza](gráfico_de_pizza.png)
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Para contribuir com o projeto, siga estas etapas:
