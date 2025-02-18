@@ -101,9 +101,11 @@ Após a execução do script, você obterá os seguintes resultados:
 Exemplo de Visualização:
 
 - Gráfico de Barras
-     - ![Gráfico de Barras](gráfico_de_barras.png)
+<img src="output/grafico_barras.png" alt="Gráfico de Barras" width="500" />
+
 - Gráfico de Pizza
-    - ![Gráfico de Pizza](gráfico_de_pizza.png)
+<img src="output/grafico_pizza.png" alt="Gráfico de Pizza" width="400" />
+
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Para contribuir com o projeto, siga estas etapas:
